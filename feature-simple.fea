@@ -1,0 +1,33 @@
+# Script and language coverage 
+	languagesystem DFLT dflt; 
+	languagesystem latn dflt; 
+
+
+
+# Déterminer des classes
+	@cap = [A - Z];
+	@xstrude = [A.alt1 - Z.alt1];
+
+
+
+# formation d'une ligature
+
+	feature liga { 
+
+# Ligatures commune
+#		substitute f i by f_i; 
+#		substitute f l by f_l; 
+
+# Substitution contextuelle simple : les éléments ' sont remplacés
+#		sub A A' by A.alt1;
+		sub @cap @cap' by @xstrude;
+
+# Straightforward
+# 	sub \b by \b.alt1;
+
+# Car
+# 	sub \c \a \r by \carchar
+
+
+
+	} liga;

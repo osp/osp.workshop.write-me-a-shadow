@@ -1,0 +1,49 @@
+
+Write me a shadow.
+Une fonte numérique se laisse modifier et réinterpréter avec plus de souplesse qu’une fonte en plomb. Pourtant la plupart des fontes sont distribuées sous des licences qui en interdisent la modification et la redistribution. 
+À l'occasion de l'atelier "Write me a shadow", nous partirons d'une collection de fontes libres pour suivre plusieurs chemins, dessins et scriptes, permettant d'en générer des versions colorées, ombrées, contournées ou extrudées.
+Par coupes, décalages et superpositions nous construirons des familles multiples à déployer dans les éditeurs vectoriels et sur le web.
+
+- - - 
+
+Eric Schrijver (Amsterdam, 1984)
+Designer graphique et performer, Eric travaille au croisement entre nouveaux medias et performance. Il enseigne le design interactif à l'École Royale des Beaux Arts de la Haye (KABK). Son blog I like tight pants and mathematics invite les designers et artistes à s'investir dans le monde de la programmation.
+
+Ludivine Loiseau (Besançon, 1983)
+Typographe diplomée de l'École Estienne (Paris). Ludi agit à Bruxelles, pour le bureau Speculoos depuis 2006, avec le collectif OSP depuis 4 années, interrogeant le rôle de la typographie contemporaine. Elle est conférencière en typographie et logiciels libres à l'École de Recherche Graphique.
+
+Open Source Publishing 
+OSP est un groupe de travail qui produit des objets de design graphique uniquement avec des logiciels libres et Open Source. 
+Affilié à l'association Constant, la caravane OSP est basée à Bruxelles. Elle se compose aujourd'hui d'une douzaine de personnes issues de champs complémentaires : typographie, design graphique, cartographie, programmation, mathématiques, écriture, etc. Par la pratique collaborative, ils travaillent autour de workshops et de projets commissionnés ou auto-initiés, à la recherche d'une redéfinition de leur champ d'action, creusant vers un rapport plus intime et expérimental avec les outils.
+
+http://ericschrijver.nl/
+http://i.liketightpants.net/and/
+http://www.ludi.be/
+http://zigzaganimal.be/
+http://ospublish.constantvzw.org/
+http://www.constantvzw.org/site/
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+Recommandations :
+Apporter cutter, couleurs et ordinateurs.
+
+Programme :
+
+- - - jeudi 
+- 10h → 13h 
+Ludi - Eric _OSP
+hello + présentation d'une sélection de travaux et outils.
+- 14h → 16h
+Introduction au support fonte - Unicode, FontForge.
+- 16h → 18h 
+Scketches, découpes, dessins.
+
+- - - vendredi
+- 9h30 → 11h 
+Suite des dessins et translaton vers le digital.
+- - - 11h → 13h
+Initiation scripts et open type.
+- 14h → 16h
+Finalisation des fontes / familles.
+- 16h → 18h 
+Construction d'un specimen commun online.

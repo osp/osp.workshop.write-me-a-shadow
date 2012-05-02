@@ -1,0 +1,113 @@
+
+
+ricardo-outline
+---------------
+font = fontforge.activeFont()
+for glyph in font:
+    font[glyph].stroke('circular',  30, 'square', 'bevel', ('cleanup',))
+
+
+
+rotate-eric
+------------
+
+import psMat
+import math
+matrix = psMat.rotate(math.degrees(45))
+
+font = fontforge.activeFont()
+
+for glyph in font.glyphs():
+   glyph.transform(matrix)
+
+
+
+triangles
+---------
+font = fontforge.activeFont()
+
+for glyph in font.glyphs():
+    pen = glyph.glyphPen()
+    
+    v = glyph.boundingBox()[0]
+    x = glyph.boundingBox()[1]
+    y = glyph.boundingBox()[2]
+    z = glyph.boundingBox()[3]
+
+    pen.moveTo((y,x))
+    pen.lineTo((y,z))
+    pen.lineTo((v,z))
+    pen.closePath()
+    
+    print glyph.boundingBox
+
+
+make_curves_straight.py
+-----------------------
+font = fontforge.activeFont()
+for glyph in font:
+    font[glyph].stroke('circular',  30, 'square', 'bevel', ('cleanup',))
+font = fontforge.activeFont()
+for glyph in font.glyphs():
+    print glyph.glyphname
+    new_contours = []
+    for contour in glyph.layers[1]:
+        new_contour = []
+        i = 0
+        while i < len(contour):
+            p = contour[i]
+            if p.on_curve:
+                i += 2
+            new_contour.append((p.x, p.y))
+            i += 1
+        new_contours.append(new_contour)
+    # glyph.clear()
+    pen = glyph.glyphPen()
+    for to_draw in new_contours:
+        print "HEEE HEEE", to_draw
+        pen.moveTo(to_draw[0])
+        for i in to_draw[1:]:
+            pen.lineTo(i)
+        pen.closePath()
+
+
+pattern truc
+----------
+font = fontforge.activeFont()
+
+#creation d'un glyph appelle Patt
+font.createChar(-1, "Patt")
+
+#import du glyph
+glyph = font["Patt"]
+glyph.importOutlines("frogs.svg")
+
+font.selection.select("Patt")  
+font.copy()
+font.selection.invert()
+font.pasteInto()
+
+font.intersect()	
+
+
+cut in 2
+--------
+font = fontforge.activeFont()
+
+font.createChar(-1, "bloc")
+
+glyph = font["bloc"]
+pen = glyph.glyphPen()
+pen.moveTo(0,1000)
+pen.lineTo(1000,1000)
+pen.lineTo(1000,500)
+pen.lineTo(0,500)
+pen.closePath()
+
+font.selection.select("bloc")  
+font.copy()
+font.selection.invert()
+font.pasteInto()
+
+font.intersect()
+
