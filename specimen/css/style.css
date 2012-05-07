@@ -32,13 +32,13 @@ p.colophon a, p.colophon a:visited, p.colophon a:active {
 }
 
 h1 {
-  font-size: 400px;
-  line-height: 400px;
+  font-size: 64px;
+  line-height: 72px;
 }
 
 h2 {
-  font-size: 400px;
-  line-height: 400px;
+  font-size: 48px;
+  line-height: 48px;
 }
 
 h2#vas-y {
