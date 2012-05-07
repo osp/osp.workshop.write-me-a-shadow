@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="456"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="267" y="718" type="line"/>
+      <point x="157" y="86" type="line"/>
+      <point x="455" y="86" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="187" y="718" type="line"/>
+    </contour>
+    <contour>
+      <point x="459" y="718" type="line"/>
+      <point x="536" y="718" type="line"/>
+      <point x="520" y="624" type="line" smooth="yes"/>
+      <point x="506" y="544"/>
+      <point x="469" y="496"/>
+      <point x="420" y="492" type="curve"/>
+      <point x="427" y="531" type="line"/>
+      <point x="455" y="534"/>
+      <point x="473" y="563"/>
+      <point x="481" y="617" type="curve"/>
+      <point x="441" y="617" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>86</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>617</integer>
+	    <key>width</key>	    <integer>101</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>698</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

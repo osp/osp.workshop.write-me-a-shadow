@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketrighttp" format="1">
+  <advance width="384"/>
+  <outline>
+    <contour>
+      <point x="360" y="-80" type="line"/>
+      <point x="305" y="-80" type="line"/>
+      <point x="305" y="871" type="line"/>
+      <point x="22" y="871" type="line"/>
+      <point x="22" y="926" type="line"/>
+      <point x="360" y="926" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>871</integer>
+	    <key>width</key>	    <integer>55</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>305</integer>
+	    <key>width</key>
+	    <integer>55</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

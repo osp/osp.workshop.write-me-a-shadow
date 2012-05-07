@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcaron" format="1">
+  <advance width="426"/>
+  <unicode hex="0164"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line"/>
+      <point x="176" y="672" type="line"/>
+      <point x="7" y="672" type="line"/>
+      <point x="7" y="739" type="line"/>
+      <point x="419" y="739" type="line"/>
+      <point x="419" y="672" type="line"/>
+      <point x="250" y="672" type="line"/>
+      <point x="250" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="931" type="line"/>
+      <point x="245" y="805" type="line"/>
+      <point x="179" y="805" type="line"/>
+      <point x="36" y="931" type="line"/>
+      <point x="125" y="931" type="line"/>
+      <point x="211" y="857" type="line"/>
+      <point x="299" y="931" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>672</integer>
+            <key>width</key>
+            <integer>67</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>176</integer>
+            <key>width</key>
+            <integer>74</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

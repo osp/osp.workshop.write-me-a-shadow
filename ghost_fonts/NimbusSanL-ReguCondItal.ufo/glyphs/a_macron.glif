@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Amacron" format="1">
+  <advance width="547"/>
+  <unicode hex="0100"/>
+  <outline>
+    <contour>
+      <point x="427" y="209" type="line"/>
+      <point x="191" y="209" type="line"/>
+      <point x="93" y="0" type="line"/>
+      <point x="11" y="0" type="line"/>
+      <point x="358" y="718" type="line"/>
+      <point x="448" y="718" type="line"/>
+      <point x="536" y="0" type="line"/>
+      <point x="449" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="295" type="line"/>
+      <point x="414" y="295" type="line"/>
+      <point x="381" y="614" type="line"/>
+    </contour>
+    <contour>
+      <point x="555" y="879" type="line"/>
+      <point x="545" y="822" type="line"/>
+      <point x="288" y="822" type="line"/>
+      <point x="298" y="879" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>209</integer>
+	    <key>width</key>	    <integer>86</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>698</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>822</integer>
+	    <key>width</key>	    <integer>57</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

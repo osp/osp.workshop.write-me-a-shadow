@@ -15,16 +15,35 @@ body {
 
 p {
   margin-bottom: 24px;
+  font-family: Gill Sans, SansGuiltMB;
+  width: 528px;
+}
+
+a, a:visited, a:active {
+  color: blue;
+}
+
+p.colophon {
+  color: #777;
+}
+
+p.colophon a, p.colophon a:visited, p.colophon a:active {
+  color: #B5C8FF;
 }
 
 h1 {
-  font-size: 64px;
-  line-height: 72px;
+  font-size: 400px;
+  line-height: 400px;
 }
 
 h2 {
-  font-size: 48px;
-  line-height: 48px;
+  font-size: 400px;
+  line-height: 400px;
+}
+
+h2#vas-y {
+  margin-top: 80px;
+  margin-bottom: 64px;
 }
 
 span#SansGuiltMB {

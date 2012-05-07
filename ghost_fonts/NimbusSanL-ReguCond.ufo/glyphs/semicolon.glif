@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="semicolon" format="1">
+  <advance width="228"/>
+  <unicode hex="003B"/>
+  <outline>
+    <contour>
+      <point x="71" y="0" type="line"/>
+      <point x="71" y="107" type="line"/>
+      <point x="157" y="107" type="line"/>
+      <point x="157" y="8" type="line" smooth="yes"/>
+      <point x="157" y="-82"/>
+      <point x="128" y="-134"/>
+      <point x="71" y="-147" type="curve"/>
+      <point x="71" y="-101" type="line"/>
+      <point x="100" y="-97"/>
+      <point x="114" y="-64"/>
+      <point x="115" y="0" type="curve"/>
+    </contour>
+    <contour>
+      <point x="157" y="409" type="line"/>
+      <point x="71" y="409" type="line"/>
+      <point x="71" y="516" type="line"/>
+      <point x="157" y="516" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>107</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>409</integer>
+	    <key>width</key>	    <integer>107</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>71</integer>
+	    <key>width</key>
+	    <integer>86</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

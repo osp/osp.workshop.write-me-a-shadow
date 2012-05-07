@@ -23,7 +23,7 @@ $(document).ready(function(){
     $("[data-fonts]").each(function() {
         $(this).css({position:'relative'});
         var fonts = $.parseJSON($(this).attr("data-fonts"));
-        var text = $(this).text();
+        var text = $(this).html();
         var html = '&nbsp;';
         $.each(fonts, function(index, fontobject){
             // fontname is fontfile without path and extension:

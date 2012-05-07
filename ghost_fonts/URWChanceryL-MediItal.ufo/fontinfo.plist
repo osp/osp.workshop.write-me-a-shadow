@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>URW Chancery L</string>
+	<key>styleName</key>
+	<string>MediItal</string>
+	<key>copyright</key>
+	<string>Copyright (URW)++,Copyright 1999 by (URW)++ Design &amp; Development; Cyrillic glyphs added by Valek Filippov (c) 2001-2004</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>xHeight</key>
+	<integer>128</integer>
+	<key>capHeight</key>
+	<integer>573</integer>
+	<key>ascender</key>
+	<integer>833</integer>
+	<key>descender</key>
+	<integer>-167</integer>
+	<key>italicAngle</key>
+	<real>-14</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/01/05 15:52:54</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.06</string>
+	<key>postscriptFontName</key>
+	<string>URWChanceryL-MediItal</string>
+	<key>postscriptFullName</key>
+	<string>URW Chancery L Medium Italic</string>
+	<key>postscriptWeightName</key>
+	<string>Medium</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-120</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-20</integer>
+		<integer>0</integer>
+		<integer>391</integer>
+		<integer>411</integer>
+		<integer>573</integer>
+		<integer>593</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>33</integer>
+		<integer>39</integer>
+		<integer>48</integer>
+		<integer>53</integer>
+		<integer>56</integer>
+		<integer>63</integer>
+		<integer>68</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer></integer>
+	</array>
+	<key>postscriptBlueScale</key>
+	<real>0.039625</real>
+    </dict>
+</plist>

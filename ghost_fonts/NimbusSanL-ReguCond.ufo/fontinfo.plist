@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>Nimbus Sans L</string>
+	<key>styleName</key>
+	<string>ReguCond</string>
+	<key>copyright</key>
+	<string>Copyright (URW)++,Copyright 1999 by (URW)++ Design &amp; Development; Cyrillic glyphs added by Valek Filippov (C) 2001-2005</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>xHeight</key>
+	<integer>523</integer>
+	<key>capHeight</key>
+	<integer>718</integer>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/01/05 15:52:54</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.06</string>
+	<key>postscriptFontName</key>
+	<string>NimbusSanL-ReguCond</string>
+	<key>postscriptFullName</key>
+	<string>Nimbus Sans L Regular Condensed</string>
+	<key>postscriptWeightName</key>
+	<string>Regular</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>50</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-100</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-20</integer>
+		<integer>0</integer>
+		<integer>523</integer>
+		<integer>543</integer>
+		<integer>718</integer>
+		<integer>738</integer>
+		<integer>684</integer>
+		<integer>704</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>78</integer>
+		<integer>84</integer>
+		<integer>88</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>69</integer>
+		<integer>73</integer>
+		<integer>77</integer>
+		<integer>81</integer>
+	</array>
+	<key>postscriptBlueScale</key>
+	<real>0.039625</real>
+    </dict>
+</plist>

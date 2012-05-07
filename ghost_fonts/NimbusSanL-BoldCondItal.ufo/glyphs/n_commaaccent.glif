@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncommaaccent" format="1">
+  <advance width="592"/>
+  <unicode hex="0145"/>
+  <outline>
+    <contour>
+      <point x="459" y="214" type="line"/>
+      <point x="546" y="718" type="line"/>
+      <point x="661" y="718" type="line"/>
+      <point x="536" y="0" type="line"/>
+      <point x="413" y="0" type="line"/>
+      <point x="261" y="515" type="line"/>
+      <point x="172" y="0" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="182" y="718" type="line"/>
+      <point x="311" y="718" type="line"/>
+    </contour>
+    <contour>
+      <point x="236" y="-60" type="line"/>
+      <point x="334" y="-60" type="line"/>
+      <point x="317" y="-155" type="line"/>
+      <point x="308" y="-233"/>
+      <point x="257" y="-292"/>
+      <point x="194" y="-298" type="curve"/>
+      <point x="202" y="-255" type="line"/>
+      <point x="240" y="-247"/>
+      <point x="268" y="-213"/>
+      <point x="273" y="-167" type="curve"/>
+      <point x="217" y="-167" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>-167</integer>
+	    <key>width</key>	    <integer>107</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>698</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcaron" format="1">
+  <advance width="307"/>
+  <unicode hex="013E"/>
+  <outline>
+    <contour>
+      <point x="307" y="729" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="68" y="0" type="line"/>
+      <point x="223" y="729" type="line"/>
+    </contour>
+    <contour>
+      <point x="367" y="729" type="line"/>
+      <point x="467" y="729" type="line"/>
+      <point x="448" y="636" type="line"/>
+      <point x="430" y="554"/>
+      <point x="382" y="505"/>
+      <point x="319" y="505" type="curve"/>
+      <point x="327" y="543" type="line"/>
+      <point x="366" y="543"/>
+      <point x="390" y="572"/>
+      <point x="401" y="631" type="curve"/>
+      <point x="346" y="631" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>631</integer>
+	    <key>width</key>	    <integer>98</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>709</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

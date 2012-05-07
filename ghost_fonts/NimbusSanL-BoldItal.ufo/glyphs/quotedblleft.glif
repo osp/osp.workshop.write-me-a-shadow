@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedblleft" format="1">
+  <advance width="500"/>
+  <unicode hex="201C"/>
+  <outline>
+    <contour>
+      <point x="306" y="469" type="line"/>
+      <point x="171" y="469" type="line"/>
+      <point x="194" y="578" type="line"/>
+      <point x="208" y="665"/>
+      <point x="272" y="722"/>
+      <point x="361" y="729" type="curve"/>
+      <point x="351" y="683" type="line"/>
+      <point x="293" y="673"/>
+      <point x="261" y="644"/>
+      <point x="252" y="594" type="curve"/>
+      <point x="333" y="594" type="line"/>
+    </contour>
+    <contour>
+      <point x="533" y="469" type="line"/>
+      <point x="398" y="469" type="line"/>
+      <point x="421" y="578" type="line"/>
+      <point x="435" y="665"/>
+      <point x="499" y="722"/>
+      <point x="588" y="729" type="curve"/>
+      <point x="578" y="683" type="line"/>
+      <point x="520" y="673"/>
+      <point x="488" y="644"/>
+      <point x="479" y="594" type="curve"/>
+      <point x="560" y="594" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>469</integer>
+	    <key>width</key>	    <integer>125</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>709</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

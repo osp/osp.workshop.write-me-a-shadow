@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>URW Gothic L</string>
+	<key>styleName</key>
+	<string>Demi</string>
+	<key>copyright</key>
+	<string>Copyright (URW)++,Copyright 1999 by (URW)++ Design &amp; Development; Cyrillic glyphs added by Valek Filippov (C) 2001-2005</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>xHeight</key>
+	<integer>554</integer>
+	<key>capHeight</key>
+	<integer>739</integer>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/01/05 15:52:54</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 1.06</string>
+	<key>postscriptFontName</key>
+	<string>URWGothicL-Demi</string>
+	<key>postscriptFullName</key>
+	<string>URW Gothic L Demi</string>
+	<key>postscriptWeightName</key>
+	<string>Demi</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>90</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-93</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-20</integer>
+		<integer>0</integer>
+		<integer>554</integer>
+		<integer>574</integer>
+		<integer>739</integer>
+		<integer>759</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>113</integer>
+		<integer>123</integer>
+		<integer>129</integer>
+		<integer>133</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>134</integer>
+		<integer>138</integer>
+	</array>
+	<key>postscriptBlueScale</key>
+	<real>0.039625</real>
+    </dict>
+</plist>

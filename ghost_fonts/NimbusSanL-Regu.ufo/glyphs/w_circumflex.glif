@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Wcircumflex" format="1">
+  <advance width="944"/>
+  <unicode hex="0174"/>
+  <outline>
+    <contour>
+      <point x="428" y="919" type="line"/>
+      <point x="523" y="919" type="line"/>
+      <point x="619" y="769" type="line"/>
+      <point x="556" y="769" type="line"/>
+      <point x="475" y="865" type="line"/>
+      <point x="396" y="769" type="line"/>
+      <point x="332" y="769" type="line"/>
+    </contour>
+    <contour>
+      <point x="744" y="0" type="line"/>
+      <point x="642" y="0" type="line"/>
+      <point x="474" y="599" type="line"/>
+      <point x="311" y="0" type="line"/>
+      <point x="209" y="0" type="line"/>
+      <point x="22" y="729" type="line"/>
+      <point x="126" y="729" type="line"/>
+      <point x="263" y="137" type="line"/>
+      <point x="425" y="729" type="line"/>
+      <point x="525" y="729" type="line"/>
+      <point x="691" y="137" type="line"/>
+      <point x="825" y="729" type="line"/>
+      <point x="929" y="729" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>0</integer>
+	    <key>width</key>	    <integer>21</integer>
+	  </dict>
+	  <dict>
+	    <key>position</key>	    <integer>709</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

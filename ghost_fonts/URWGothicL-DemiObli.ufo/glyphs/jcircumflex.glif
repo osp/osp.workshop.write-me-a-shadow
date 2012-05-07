@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jcircumflex" format="1">
+  <advance width="260"/>
+  <unicode hex="0135"/>
+  <outline>
+    <contour>
+      <point x="175" y="554" type="line"/>
+      <point x="308" y="554" type="line"/>
+      <point x="212" y="37" type="line"/>
+      <point x="189" y="-101"/>
+      <point x="105" y="-182"/>
+      <point x="-17" y="-185" type="curve"/>
+      <point x="7" y="-56" type="line"/>
+      <point x="57" y="-47"/>
+      <point x="67" y="-34"/>
+      <point x="80" y="40" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="49" y="630" type="line"/>
+      <point x="222" y="768" type="line"/>
+      <point x="329" y="768" type="line"/>
+      <point x="448" y="630" type="line"/>
+      <point x="303" y="630" type="line"/>
+      <point x="262" y="694" type="line"/>
+      <point x="196" y="630" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+	<key>hhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>	    <integer>534</integer>
+	    <key>width</key>	    <integer>20</integer>
+	  </dict>
+	</array>
+	<key>vhints</key>
+	<array>
+	  <dict>
+	    <key>position</key>
+	    <integer>-17</integer>
+	    <key>width</key>
+	    <integer>465</integer>
+	  </dict>
+	</array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

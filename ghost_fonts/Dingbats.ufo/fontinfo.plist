@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+	<key>familyName</key>
+	<string>Dingbats</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>copyright</key>
+	<string>Copyright URW Software, Copyright 1997 by URW</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>ascender</key>
+	<integer>800</integer>
+	<key>descender</key>
+	<integer>-200</integer>
+	<key>italicAngle</key>
+	<real>0</real>
+	<key>note</key>
+	<string></string>
+	<key>openTypeHeadCreated</key>
+	<string>2012/01/05 15:52:54</string>
+	<key>openTypeNameVersion</key>
+	<string>Version 001.005</string>
+	<key>postscriptFontName</key>
+	<string>Dingbats</string>
+	<key>postscriptFullName</key>
+	<string>Dingbats </string>
+	<key>postscriptWeightName</key>
+	<string>Regular</string>
+	<key>postscriptUnderlineThickness</key>
+	<integer>36</integer>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-72</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer></integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer></integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer></integer>
+	</array>
+	<key>postscriptBlueScale</key>
+	<real>0.039625</real>
+    </dict>
+</plist>
