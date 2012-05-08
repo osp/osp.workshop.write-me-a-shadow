@@ -41,6 +41,22 @@ h2 {
   line-height: 48px;
 }
 
+h2 a {
+    text-decoration: none;
+    color: inherit !important;
+}
+
+div#mixtape h2 {
+    margin-bottom: 16px;
+}
+
+div#mixtape p {
+    margin-left: 8px;
+    margin-bottom: 36px;
+    text-transform: lowercase;
+    color: #777;
+}
+
 h2#vas-y {
   margin-top: 80px;
   margin-bottom: 64px;

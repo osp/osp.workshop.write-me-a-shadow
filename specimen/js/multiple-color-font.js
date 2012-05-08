@@ -39,5 +39,14 @@ $(document).ready(function(){
             $("body").prepend("<style>" + fontface + "</style>");
         })
         $(this).html(html);
+        // http://stackoverflow.com/questions/6060992/element-with-the-max-height-from-a-set-of-elements
+        var heights = $(this).children("span").map(function ()
+            {
+                return $(this).height();
+            }).get();
+        console.log(heights);
+        var maxHeight = Math.max.apply(null, heights);
+        console.log(maxHeight);
+        $(this).css('height', maxHeight);
     });
 });
