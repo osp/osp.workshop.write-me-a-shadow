@@ -19,6 +19,12 @@ p {
   width: 528px;
 }
 
+p#source-files {
+  position: fixed;
+  top: 24px;
+  right: 128px;
+  width: inherit;
+}
 a, a:visited, a:active {
   color: blue;
 }
@@ -53,7 +59,6 @@ div#mixtape h2 {
 div#mixtape p {
     margin-left: 8px;
     margin-bottom: 36px;
-    text-transform: lowercase;
     color: #777;
 }
 
