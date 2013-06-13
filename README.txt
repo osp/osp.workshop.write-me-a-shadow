@@ -7,9 +7,9 @@ Workshop ESAD Valence 3-4 mai 2012
 Ludi Loiseau et Eric Schrijver for OSP
 --------------------------------------
 
-Web Specimen: http://ospublish.constantvzw.org/workshop/write-me-a-shadow/
-Source Files: http://osp.constantvzw.org/workshop/write-me-a-shadow/
-Photo Gallery: http://ospublish.constantvzw.org/images/write-me-a-shadow
+*   Web Specimen: http://ospublish.constantvzw.org/workshop/write-me-a-shadow/
+*   Source Files: http://osp.constantvzw.org/workshop/write-me-a-shadow/
+*   Photo Gallery: http://ospublish.constantvzw.org/images/write-me-a-shadow
 
 Even if a digital font is much more easily modified and reinterpreted
 than its counterpart in lead, most digital fonts are distributed under
